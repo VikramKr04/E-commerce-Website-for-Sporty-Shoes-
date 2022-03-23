@@ -1,6 +1,6 @@
 # E-commerce Website for Sporty Shoes 
 
-This is a Project on the :: Website for Sporty Shoes
+This is a Project on the :: Creating a Website for Sporty Shoes
 
 You can find the Screenshots of the section of the project to help you understand which code does what.
 
